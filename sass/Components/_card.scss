@@ -58,19 +58,19 @@
             background-image: linear-gradient(to right,
             $color-secondary-light,
             $color-secondary-dark),
-            url('../../img/involve1.jpg');
+            url('../img/involve1.jpg');
         }
         &--2 {
             background-image: linear-gradient(to right,
             $color-primary-light,
             $color-primary-dark),
-            url('../../img/involve2.jpg');
+            url('../img/involve2.jpg');
         }
         &--3 {
             background-image: linear-gradient(to right,
             $color-tertiary-light,
             $color-tertiary-dark),
-            url('../../img/involve3.jpg');
+            url('../img/involve3.jpg');
         }
     }
 
